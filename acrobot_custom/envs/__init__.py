@@ -1,1 +1,1 @@
-from acrobot_custom.envs.acrobot_custom_env import AcrobotCustomEnv
+from acrobot_custom.envs.acrobot_custom_env_classic_control import AcrobotCustomEnv
